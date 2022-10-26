@@ -1,0 +1,9 @@
+const char *MQTT_HOST = "mqtt.myserver.com";
+const int MQTT_PORT = 1883;
+const char *MQTT_USERNAME = "airgradient";
+const char *SSID = "MyAwesomeWiFi";
+const char *SSID_PASSWORD = "hunter2";
+const char *MQTT_PASSWORD = "batteryhorsestaple";
+const char *MQTT_TOPIC = "aigradient/bedroom/";
+const char *NTP_SERVER = "pool.ntp.org";
+const char *NTP_SERVER2 = "time.nist.gov";
